@@ -1,11 +1,13 @@
 # kaptcha - A kaptcha generation engine.
 
+Only JDK17 and JakartaEE9 is supported
+
 This repo is the copy of http://code.google.com/p/kaptcha/ and published to maven central
 ```
 <dependency>
-  <groupId>com.github.penggle</groupId>
+  <groupId>com.luamas.kaptcha</groupId>
   <artifactId>kaptcha</artifactId>
-  <version>2.3.2</version>
+  <version>3.0.0</version>
 </dependency>
 ```
 Please see the website for more information about this project.
